@@ -1,0 +1,40 @@
+{
+  "downloaded": "2026-11-06",
+  "css_source": "https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,wght@0,400..700;1,400..700&family=DM+Sans:wght@400..700&display=swap",
+  "fonts": [
+    {
+      "file": "bodoni-moda-italic.woff2",
+      "family": "Bodoni Moda",
+      "style": "italic",
+      "weight": "400 700",
+      "subset": "latin",
+      "url": "https://fonts.gstatic.com/s/bodonimoda/v28/aFTB7PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbtxSXgM.woff2",
+      "license": "OFL-1.1",
+      "license_file": "Bodoni-Moda-OFL.txt"
+    },
+    {
+      "file": "bodoni-moda.woff2",
+      "family": "Bodoni Moda",
+      "style": "normal",
+      "weight": "400 700",
+      "subset": "latin",
+      "url": "https://fonts.gstatic.com/s/bodonimoda/v28/aFTH7PxzY382XsXX63LUYL6GYFcan6NJrKp-VPj1KOxQ.woff2",
+      "license": "OFL-1.1",
+      "license_file": "Bodoni-Moda-OFL.txt"
+    },
+    {
+      "file": "dm-sans.woff2",
+      "family": "DM Sans",
+      "style": "normal",
+      "weight": "400 700",
+      "subset": "latin",
+      "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2",
+      "license": "OFL-1.1",
+      "license_file": "DM-Sans-OFL.txt"
+    }
+  ],
+  "license_sources": {
+    "Bodoni-Moda-OFL.txt": "https://raw.githubusercontent.com/google/fonts/main/ofl/bodonimoda/OFL.txt",
+    "DM-Sans-OFL.txt": "https://raw.githubusercontent.com/google/fonts/main/ofl/dmsans/OFL.txt"
+  }
+}

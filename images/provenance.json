@@ -1,0 +1,57 @@
+[
+  {
+    "file": "hairhub-collage.webp",
+    "source_url": "https://images.squarespace-cdn.com/content/v1/685c4f397623cc3a6178bf8a/91cfde73-0d02-42af-a3c8-4ff0da0ff9fc/BG2.png",
+    "source_page": "https://www.hairhubusa.com/",
+    "alt": "Collage of barbers working at The Hair Hub",
+    "width": 1800,
+    "height": 1165,
+    "bytes": 95602,
+    "observed_date": "2026-11-06",
+    "edits": "Resize and WebP conversion only. No generative editing."
+  },
+  {
+    "file": "barber-at-work.webp",
+    "source_url": "https://images.squarespace-cdn.com/content/v1/685c4f397623cc3a6178bf8a/b2ae4c59-417e-4eb1-9874-de40db676650/for+services_1.jpg",
+    "source_page": "https://www.hairhubusa.com/",
+    "alt": "A Hair Hub barber carefully shaping a client's beard",
+    "width": 1350,
+    "height": 1800,
+    "bytes": 381576,
+    "observed_date": "2026-11-06",
+    "edits": "Resize and WebP conversion only. No generative editing."
+  },
+  {
+    "file": "precision-cut.webp",
+    "source_url": "https://images.squarespace-cdn.com/content/v1/685c4f397623cc3a6178bf8a/c4a68362-1d30-4967-806d-a8c9a4b24ccf/Services_3.jpg",
+    "source_page": "https://www.hairhubusa.com/",
+    "alt": "Finished pompadour and skin fade at The Hair Hub",
+    "width": 1440,
+    "height": 1800,
+    "bytes": 124610,
+    "observed_date": "2026-11-06",
+    "edits": "Resize and WebP conversion only. No generative editing."
+  },
+  {
+    "file": "shave-treatment.webp",
+    "source_url": "https://images.squarespace-cdn.com/content/v1/685c4f397623cc3a6178bf8a/6ff85902-d63d-4146-8fba-067e75b35da1/Services_2.jpg",
+    "source_page": "https://www.hairhubusa.com/",
+    "alt": "A barber providing a shave treatment at The Hair Hub",
+    "width": 1615,
+    "height": 1800,
+    "bytes": 217276,
+    "observed_date": "2026-11-06",
+    "edits": "Resize and WebP conversion only. No generative editing."
+  },
+  {
+    "file": "hairhub-team.webp",
+    "source_url": "https://images.squarespace-cdn.com/content/v1/685c4f397623cc3a6178bf8a/52905b13-c562-4ee0-a8cf-aae784d29c1f/Screenshot+2025-07-03+at+5.53.59%E2%80%AFPM.png",
+    "source_page": "https://www.hairhubusa.com/",
+    "alt": "The Hair Hub team together inside the Ridgefield shop",
+    "width": 1530,
+    "height": 966,
+    "bytes": 81648,
+    "observed_date": "2026-11-06",
+    "edits": "Resize and WebP conversion only. No generative editing."
+  }
+]
