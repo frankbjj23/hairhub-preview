@@ -53,5 +53,14 @@
     "bytes": 81648,
     "observed_date": "2026-11-06",
     "edits": "Resize and WebP conversion only. No generative editing."
+  },
+  {
+    "file": "hairhub-logo.jpg",
+    "source": "Logo supplied directly by the user on November 6, 2026",
+    "alt": "The Hair Hub Co. original white logo on black",
+    "width": 1280,
+    "height": 741,
+    "edits": "Unmodified copy of the user-supplied original. No generative editing, cropping, or recoloring.",
+    "sha256": "A3CE5DA41CD1E27DEF1DD9825190DAA2B937A32D4ED8E9C3A7CA785433A5DBA5"
   }
 ]

@@ -1,40 +1,42 @@
 {
   "downloaded": "2026-11-06",
-  "css_source": "https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,wght@0,400..700;1,400..700&family=DM+Sans:wght@400..700&display=swap",
+  "css_source": "https://fonts.googleapis.com/css2?family=Manrope:wght@400..800&family=IBM+Plex+Sans:wght@400..700&display=swap",
   "fonts": [
     {
-      "file": "bodoni-moda-italic.woff2",
-      "family": "Bodoni Moda",
-      "style": "italic",
-      "weight": "400 700",
+      "file": "manrope.woff2",
+      "family": "Manrope",
+      "style": "normal",
+      "weight": "400 800",
       "subset": "latin",
-      "url": "https://fonts.gstatic.com/s/bodonimoda/v28/aFTB7PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbtxSXgM.woff2",
+      "url": "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggexSg.woff2",
       "license": "OFL-1.1",
-      "license_file": "Bodoni-Moda-OFL.txt"
+      "license_file": "Manrope-OFL.txt"
     },
     {
-      "file": "bodoni-moda.woff2",
-      "family": "Bodoni Moda",
+      "file": "ibm-plex-sans.woff2",
+      "family": "IBM Plex Sans",
       "style": "normal",
       "weight": "400 700",
       "subset": "latin",
-      "url": "https://fonts.gstatic.com/s/bodonimoda/v28/aFTH7PxzY382XsXX63LUYL6GYFcan6NJrKp-VPj1KOxQ.woff2",
+      "url": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxeKYY.woff2",
       "license": "OFL-1.1",
-      "license_file": "Bodoni-Moda-OFL.txt"
-    },
-    {
-      "file": "dm-sans.woff2",
-      "family": "DM Sans",
-      "style": "normal",
-      "weight": "400 700",
-      "subset": "latin",
-      "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2",
-      "license": "OFL-1.1",
-      "license_file": "DM-Sans-OFL.txt"
+      "license_file": "IBM-Plex-Sans-OFL.txt"
     }
   ],
   "license_sources": {
-    "Bodoni-Moda-OFL.txt": "https://raw.githubusercontent.com/google/fonts/main/ofl/bodonimoda/OFL.txt",
-    "DM-Sans-OFL.txt": "https://raw.githubusercontent.com/google/fonts/main/ofl/dmsans/OFL.txt"
+    "Manrope-OFL.txt": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/OFL.txt",
+    "IBM-Plex-Sans-OFL.txt": "https://raw.githubusercontent.com/google/fonts/main/ofl/ibmplexsans/OFL.txt"
+  },
+  "active_families": [
+    "Manrope",
+    "IBM Plex Sans"
+  ],
+  "comparison": {
+    "checked": "2026-11-06",
+    "site": "https://redeemedbycasper.com",
+    "stylesheet": "https://redeemedbycasper.com/_next/static/immutable/chunks/0w0qhoq1w1skt.css",
+    "heading_stack": "ui-serif,Georgia,Cambria,Times New Roman,Times,serif",
+    "body_stack": "ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif",
+    "result": "Manrope and IBM Plex Sans are distinct from Casper site font families."
   }
 }
